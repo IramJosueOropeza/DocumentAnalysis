@@ -53,4 +53,4 @@ jobs:
           app-name: 'DocumentAnalysis-Portal-Testing'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_90CBAB8317914466AF9FEE8125825D86 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9B373C0335EC4DF5B1AF510CFF19ABA8 }}
